@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "title": "iPhone",
+      "description": "Latest model iPhone with stunning camera features and powerful performance.",
+      "price": 1199.99,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm5hHANz6aT-5NcugwT6goIfCECJFzLUW4pQ&s"
+    },
+    {
+      "title": "Smart LED TV",
+      "description": "32-inch HD Smart LED TV with built-in apps and voice control.",
+      "price": 249.99,
+      "image": "https://www.intex.in/cdn/shop/products/1_9b8014ad-124e-4742-a628-9a4c4affe617.jpg?v=1648711109"
+    },
+    {
+      "title": "Premium Laptop",
+      "description": "Ultra-thin laptop with high-speed processor and stunning display.",
+      "price": 1499.99,
+      "image": "https://m.economictimes.com/thumb/msid-111048048,width-1600,height-900,resizemode-4,imgsize-46666/premium-laptop.jpg"
+    },
+    {
+      "title": "Refrigerator",
+      "description": "Spacious and energy-efficient refrigerator with advanced cooling technology.",
+      "price": 899.99,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX7aP1ey74Kitb5Z-fbOWZc_jP4kFKl9xyjA&s"
+    },
+    {
+      "title": "Front Load Washing Machine",
+      "description": "Fully automatic front-load washing machine with energy-saving features.",
+      "price": 699.99,
+      "image": "https://media3.bsh-group.com/Product_Shots/5120x/21433238_WG34A20PIN_PGA4_def.webp"
+    },
+    {
+      "title": "Bike",
+      "description": "Sleek and powerful bike with high-performance engine and smooth handling.",
+      "price": 4999.99,
+      "image": "https://imgd.aeplcdn.com/1280x720/n/bw/models/colors/keeway-select-model-glossy-grey-1661846900373.gif"
+    },
+    {
+      "title": "Smartwatch",
+      "description": "Advanced smartwatch with fitness tracking, notifications, and AMOLED display.",
+      "price": 249.99,
+      "image": "https://cdn.thewirecutter.com/wp-content/media/2024/09/androidsmartwatches-2048px-05515-2x1-1.jpg?width=2048&quality=75&crop=2:1&auto=webp"
+    },
+    {
+      "title": "Speaker",
+      "description": "Immersive speaker with deep bass and crystal-clear sound quality.",
+      "price": 179.99,
+      "image": "https://kh.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwf8ff7d4a/pdp/JBL_Quantum_Duo_Lifestyle_03_904x560px.png"
+    }
+  ]
+}
